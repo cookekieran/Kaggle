@@ -1,6 +1,6 @@
 This folder contains my attempt at the titanic kaggle competition: https://www.kaggle.com/competitions/titanic. 
 
-My work achieved a submission accuracy of 0.78229, using a Gradient Boosting Classifier.
+My work achieved a submission accuracy of 0.78468 (submission11).
 
 ### Model Features
 
